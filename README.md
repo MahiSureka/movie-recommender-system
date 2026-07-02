@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/64918edc-abe0-4bef-8795-a8a3e7fd9ae3" /># Movie Recommender System
+# Movie Recommender System
 
 A content-based movie recommendation system that suggests similar Hollywood and Bollywood movies using NLP techniques, vectorization, and cosine similarity. The project is deployed as an interactive web application using Streamlit.
 
